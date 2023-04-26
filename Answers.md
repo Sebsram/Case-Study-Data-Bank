@@ -70,3 +70,4 @@
 | 4     | 86      |
 
 **4. What is the closing balance for each customer at the end of the month?**
+a
